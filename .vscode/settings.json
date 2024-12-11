@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./sam2",
+        "./SAM2_oringinal/sam2"
+    ]
+}
