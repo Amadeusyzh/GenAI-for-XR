@@ -1,1 +1,1 @@
-# SAM2-for-XR
+# GenAI-for-XR
